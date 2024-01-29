@@ -65,6 +65,6 @@ directions. Cite and briefly survey prior work as appropriate but do not re-writ
 
 
 ## Previous material
-For reference, we have previous lecture repositories [class23](https://github.com/g-ferrer/Perception-in-Robotics-2023)) but there are modifications with respect to the current year.
+For reference, we have previous lecture repositories ([class23](https://github.com/g-ferrer/Perception-in-Robotics-2023)) but there are modifications with respect to the current year.
 
 
