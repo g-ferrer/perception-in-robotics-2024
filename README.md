@@ -17,10 +17,10 @@ For each lecture, all material will be included in the folder `seminar/L*`, and 
 ## Lectures
 
  * L01: The Expectation Operator
- * L02: Gaussians
- * L03: Gaussian II
- * L04: Bayes Filter and Kalman Filter
- * L05: Motion and Sensor Models
+ * L02: Gaussian PDFs
+ * L03: Motion and Sensor Models
+ * L04: Gaussian Marginalization and Conditioning
+ * L05: Bayes Filter and Kalman Filter
  * L06: EKF and Localization
  * L07: Particle Filter and Monte-Carlo Localization
  * L08: EKF SLAM with known correspondences
