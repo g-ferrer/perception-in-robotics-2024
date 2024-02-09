@@ -208,7 +208,7 @@ def load_data(data_filename):
 
     if file_extension == 'npy':
         with np.load(data_filename) as data:
-            num_steps = np.asscalar(data['num_steps'])
+            num_steps = np.ndarray.item(data['num_steps'])
             filter_data = FilterInputData(data['noise_free_motion'],
                                           data['real_observations'])
             debug_data = FilterDebugData(data['real_robot_path'],
