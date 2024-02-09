@@ -1,0 +1,10 @@
+name: PS2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.3
+  - pip=22.3.1
+  - ffmpeg
+  - pip:
+    - -r requirements.txt
